@@ -1,0 +1,2 @@
+-- noice
+require('noice').setup {}
